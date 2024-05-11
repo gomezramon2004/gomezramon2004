@@ -20,8 +20,6 @@ Computer Science Student at ITESM. I have a strong passion for computer science,
 
 ## Languages, Technologies and Tools
 
-<div align="center" style="min-width: 1400px; display: flex">
-
 <table>
   <tr>
     <th style="background-color: #000; text-align: left;">
