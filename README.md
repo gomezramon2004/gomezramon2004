@@ -14,7 +14,7 @@ Computer Science Student at ITESM. I have a strong passion for computer science,
 
 - 🌱 I’m currently learning **Design Patterns and Architecture**
 
-- 🤝 I’m looking for help with a **Visual Studio Extension using a Git API**
+- 🤝 I’m looking for help with a **Visual Studio Code Extension using a Git API**
 
 - 📫 Reach me through **gomezramon2004@gmail.com**
 
