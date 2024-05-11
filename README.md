@@ -1,4 +1,17 @@
 # Welcome to Ramon's Hub!
+Computer Science Student at ITESM. I have a strong passion for computer science, engineering, and software development. My purpose is to grow and learn resiliently in the face of adversity and to contribute to a friendly, supportive, and ethical environment.
+
+- 🔭 I’m currently working on **Web Development Freelancing**
+
+- 🌱 I’m currently learning **Design Patterns and Architecture**
+
+- 🤝 I’m looking for help with a **Visual Studio Extension using a Git API**
+
+- 📫 Reach me through **gomezramon2004@gmail.com**
+
+## Contact Me:
+<a href="https://www.linkedin.com/in/gomezramon2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gomezramon2004" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/kapidev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danielbrmz" height="30" width="40" /></a>
 
 ## Languages, Technologies and Tools
 
@@ -83,3 +96,8 @@
 <br />
 
 #
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gomezramon2004&show_icons=true&locale=en&layout=compact" alt="gomezramon2004" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gomezramon2004&show_icons=true&locale=en" alt="gomezramon2004" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gomezramon2004&" alt="gomezramon2004" /></p>
