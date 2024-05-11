@@ -95,9 +95,10 @@ Computer Science Student at ITESM. I have a strong passion for computer science,
 
 <br />
 
-#
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gomezramon2004&show_icons=true&locale=en&layout=compact" alt="gomezramon2004" /></p>
+# Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gomezramon2004&show_icons=true&locale=en" alt="gomezramon2004" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gomezramon2004&show_icons=true&locale=en&theme=tokyonight" alt="gomezramon2004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gomezramon2004&" alt="gomezramon2004" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gomezramon2004&show_icons=true&locale=en&theme=tokyonight" alt="gomezramon2004" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gomezramon2004&theme=tokyonight" alt="gomezramon2004" /></p>
