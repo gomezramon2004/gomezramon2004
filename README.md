@@ -26,7 +26,7 @@ Computer Science Student at ITESM. I have a strong passion for computer science,
 <table>
   <tr></tr>
   <tr>
-  <td valign="top" width="100%">
+  <td width="100%">
 
   ### 🌐 Web Development
 
@@ -54,7 +54,7 @@ Computer Science Student at ITESM. I have a strong passion for computer science,
 <table>
   <tr></tr>
   <tr>
-  <td valign="top" width="50%">
+  <td width="50%">
 
   ### ☁️ Cloud
 
@@ -65,7 +65,7 @@ Computer Science Student at ITESM. I have a strong passion for computer science,
   <img alt="Firebase" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" /> 
 
   </td>
-  <td valign="top" width="50%">
+  <td width="50%">
 
   ### 💻 Low Level Programming
 
@@ -79,7 +79,7 @@ Computer Science Student at ITESM. I have a strong passion for computer science,
   <tr></tr>
 
   <tr>
-  <td valign="top" width="50%">
+  <td width="50%">
 
   ### 📊 Data Science, AI and Engineering
 
@@ -91,7 +91,7 @@ Computer Science Student at ITESM. I have a strong passion for computer science,
   <img alt="Matlab" width="25px" style="padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
 
   </td>
-  <td valign="top" width="50%">
+  <td width="50%">
 
   ### 🛠 Low Code Tools
 
