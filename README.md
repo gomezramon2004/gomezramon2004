@@ -1,6 +1,6 @@
-# Welcome to Kapidev!
+# Welcome to Ramon's Hub!
 
-## Languages, Technlogies and Tools
+## Languages, Technologies and Tools
 
 ### 🌐 Web Development
 
