@@ -21,8 +21,9 @@ Computer Science Student at ITESM. I have a strong passion for computer science,
 ## Languages, Technologies and Tools
 
 <table>
+  <tr></tr>
   <tr>
-    <th style="background-color: #000; text-align: left;">
+    <th align="left">
       🌐 Web Development
     </th>
     <td>
@@ -44,8 +45,9 @@ Computer Science Student at ITESM. I have a strong passion for computer science,
       <img alt="Vite" width="25px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
     </td>
   </tr>
+  <tr></tr>
   <tr>
-    <th style="background-color: #000; text-align: left;">
+    <th align="left">
       ☁️ Cloud
     </th>
     <td>
@@ -56,8 +58,9 @@ Computer Science Student at ITESM. I have a strong passion for computer science,
       <img alt="Firebase" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" /> 
     </td>
   </tr>
+  <tr></tr>
   <tr>
-    <th style="background-color: #000; text-align: left;">
+    <th align="left">
       💻 Low Level Programming
     </th>
     <td>
@@ -65,8 +68,9 @@ Computer Science Student at ITESM. I have a strong passion for computer science,
       <img alt="GCC" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" />
       <img alt="Rust" width="25px" style="padding-right:10px; background-clip: content-box; background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
   </tr>
+  <tr></tr>
   <tr>
-    <th style="background-color: #000; text-align: left;">
+    <th align="left">
       📊 Data Science, AI and Engineering
     </th>
     <td>
@@ -78,8 +82,9 @@ Computer Science Student at ITESM. I have a strong passion for computer science,
       <img alt="Matlab" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
     </td>
   </tr>
+  <tr></tr>
   <tr>
-    <th style="background-color: #000; text-align: left;">
+    <th align="left">
       🛠 Low Code Tools
     </th>
     <td>
