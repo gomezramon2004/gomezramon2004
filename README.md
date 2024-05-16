@@ -18,6 +18,8 @@ Computer Science Student at ITESM. I have a strong passion for computer science,
 
 - 📫 Reach me through **gomezramon2004@gmail.com**
 
+- 📰 Portfolio: https://gomezramon2004.github.io/ 
+
 ## Languages, Technologies and Tools
 
 <table>
