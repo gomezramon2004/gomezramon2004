@@ -8,7 +8,7 @@
 
 </div>
 
-Computer Science Student at ITESM. I have a strong passion for computer science, engineering, and software development. My purpose is to grow and learn resiliently in the face of adversity and to contribute to a friendly, supportive, and ethical environment.
+Computer Science and Technology Student at ITESM. I have a strong passion for computer science, IT engineering, and software development. My purpose is to grow and learn resiliently in the face of adversity and to contribute to a friendly, supportive, and ethical environment.
 
 - 🔭 I’m currently working on **Web Development Freelancing**
 
